@@ -104,4 +104,4 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 
 ## Code
-All codes of the project, check the [SQL_queries.sql](https://github.com/Princekrampah/WalmartSalesAnalysis/blob/master/SQL_queries.sql) file
+All codes of the project, check the [wallmart_analysis.sql](https://github.com/Himangshu93/wallmart_data_analysis/blob/main/wallmart_analysis.sql) file
